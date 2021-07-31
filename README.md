@@ -1,0 +1,2 @@
+# test_githublottory
+学习稚辉君的GitHubLottery
