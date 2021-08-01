@@ -1,4 +1,4 @@
-# test_githublottory
+# test_githublottery
 学习稚辉君的GitHubLottery
 
 顺便复习一下git和GitHub的入门用法
